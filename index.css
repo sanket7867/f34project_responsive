@@ -1,0 +1,29 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.d1{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+  
+}
+ul{
+    justify-content: space-around;
+    padding: 15px;
+    display: flex;
+    list-style: none;
+    background-color: aqua;
+    
+}
+.main-cont{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
